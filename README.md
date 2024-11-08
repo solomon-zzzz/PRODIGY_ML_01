@@ -18,14 +18,6 @@ The "House Price Prediction" project aims to develop a model that can accurately
 
 - **Model Evaluation:** The project assesses the performance of the regression model using evaluation metrics such as R-squared error and mean absolute error. R-squared error measures the proportion of the variance in the target variable that can be explained by the model, while mean absolute error quantifies the average difference between the predicted and actual house prices. These metrics provide insights into the model's accuracy and precision. Additionally, a scatter plot is created to visualize the predicted prices against the actual prices.
 
-## Getting Started
-
-To run this project locally, follow these steps:
-
-1. Clone the repository: `gh repo clone MYoussef885/House_Price_Prediction`
-2. Install the required libraries: `If you're using Google Colab, you don't need to pip install. Just follow the importing the dependencies section.`
-3. Launch Google Colab: `https://colab.research.google.com/`
-4. Open the `House_Price_Prediction.ipynb` file and run the notebook cells sequentially.
 
 ## Conclusion
 
